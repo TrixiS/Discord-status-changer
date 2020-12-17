@@ -12,7 +12,7 @@ with open(config.statuses_path, "r", encoding="utf-8") as f:
 statuses = []
 
 for line in statuses_content.splitlines():
-    if line.startswith('#'):
+    if line.startswith('#') or not line:
         continue
 
     try:
@@ -26,7 +26,7 @@ for line in statuses_content.splitlines():
             status_emoji = None
 
         statuses.append((status_emoji, ' '.join(status).strip(), int(wait_time)))
-    except Exception:
+    except Exception as e:
         print(f"Invalid syntax in statuses file: {config.statuses_path}\nUse: <status> <time in seconds>")
         sys.exit()
 

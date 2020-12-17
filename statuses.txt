@@ -1,34 +1,80 @@
 # [emoji] <status text> <timeout>
-🏳️‍🌈 Eye on the TV 15
-🏳️‍🌈 'Cause tragedy thrills me 15
-🏳️‍🌈 Whatever flavour 15
-🏳️‍🌈 It happens to be like; 15
-🏳️‍🌈 Killed by the husband 15
-🏳️‍🌈 Drowned by the ocean 15
-🏳️‍🌈 Shot by his own son 15
-🏳️‍🌈 She used the poison in his tea 15
-🏳️‍🌈 And kissed him goodbye 15
-🏳️‍🌈 That's my kind of story 15
-🏳️‍🌈 It's no fun 'til someone dies 15
-🏳️‍🌈 Don't look at me like 15
-🏳️‍🌈 I am a monster 15
-🏳️‍🌈 Frown out your one face 15
-🏳️‍🌈 But with the other 15
-🏳️‍🌈 Stare like a junkie 15
-🏳️‍🌈 Into the TV 15
-🏳️‍🌈 Stare like a zombie 15
-🏳️‍🌈 While the mother 15
-🏳️‍🌈 Holds her child 15
-🏳️‍🌈 Watches him die 15
-🏳️‍🌈 Hands to the sky crying 15
-🏳️‍🌈 Why, oh why? 15
-🏳️‍🌈 'Cause I need to watch things die 15
-🏳️‍🌈 From a distance 15
-🏳️‍🌈 Vicariously I, live while the whole world dies 15
-🏳️‍🌈 You all need it too, don't lie 15
-🏳️‍🌈 Why can't we just admit it? 15
-🏳️‍🌈 Why can't we just admit it? 15
-🏳️‍🌈 We won't give pause until the blood is flowing 15
-🏳️‍🌈 Neither the brave nor bold 15
-🏳️‍🌈 The writers of stories sold 15
-🏳️‍🌈 We won't give pause until… 15
+# Tool - Vicarious
+🏳️‍🌈 Eye on the TV 10
+🏳️‍🌈 'Cause tragedy thrills me 10
+🏳️‍🌈 Whatever flavour 10
+🏳️‍🌈 It happens to be like; 10
+🏳️‍🌈 Killed by the husband 10
+🏳️‍🌈 Drowned by the ocean 10
+🏳️‍🌈 Shot by his own son 10
+🏳️‍🌈 She used the poison in his tea 10
+🏳️‍🌈 And kissed him goodbye 10
+🏳️‍🌈 That's my kind of story 10
+🏳️‍🌈 It's no fun 'til someone dies 10
+🏳️‍🌈 Don't look at me like 10
+🏳️‍🌈 I am a monster 10
+🏳️‍🌈 Frown out your one face 10
+🏳️‍🌈 But with the other 10
+🏳️‍🌈 Stare like a junkie 10
+🏳️‍🌈 Into the TV 10
+🏳️‍🌈 Stare like a zombie 10
+🏳️‍🌈 While the mother 10
+🏳️‍🌈 Holds her child 10
+🏳️‍🌈 Watches him die 10
+🏳️‍🌈 Hands to the sky crying 10
+🏳️‍🌈 Why, oh why? 10
+🏳️‍🌈 'Cause I need to watch things die 10
+🏳️‍🌈 From a distance 10
+🏳️‍🌈 Vicariously I, live while the whole world dies 10
+🏳️‍🌈 You all need it too, don't lie 10
+🏳️‍🌈 Why can't we just admit it? 10
+🏳️‍🌈 Why can't we just admit it? 10
+🏳️‍🌈 We won't give pause until the blood is flowing 10
+🏳️‍🌈 Neither the brave nor bold 10
+🏳️‍🌈 The writers of stories sold 10
+🏳️‍🌈 We won't give pause until… 10
+
+# Tool - The Grudge
+🏳️‍🌈 Wear the grudge like a crown of negativity 10
+🏳️‍🌈 Calculate what we will or will not tolerate 10
+🏳️‍🌈 Desperate to control all and everything 10
+🏳️‍🌈 Unable to forgive your scarlet lettermen 10
+🏳️‍🌈 Clutch it like a cornerstone, otherwise it all comes down 10
+🏳️‍🌈 Justify denials and grip 'em to the lonesome end 10
+🏳️‍🌈 Clutch it like a cornerstone, otherwise it all comes down 10
+🏳️‍🌈 Terrified of being wrong, ultimatum prison cell 10
+🏳️‍🌈 Saturn ascends 10
+🏳️‍🌈 Choose one or ten 10
+🏳️‍🌈 Hang on or be humbled again 10
+🏳️‍🌈 Clutch it like a cornerstone, otherwise it all comes down 10
+🏳️‍🌈 Justify denials and grip 'em to the lonesome end 10
+🏳️‍🌈 Saturn ascends, comes round again 10
+🏳️‍🌈 Saturn ascends, the one, the ten 10
+🏳️‍🌈 Ignorant to the damage done 10
+🏳️‍🌈 Wear the grudge like a crown of negativity 10
+🏳️‍🌈 Calculate what we will or will not tolerate 10
+🏳️‍🌈 Desperate to control all and everything 10
+🏳️‍🌈 Unable to forgive these scarlet lettermen 10
+🏳️‍🌈 Wear the grudge like a crown 10
+🏳️‍🌈 Desperate to control 10
+🏳️‍🌈 Unable to forgive and sinking deeper 10
+🏳️‍🌈 Defining 10
+🏳️‍🌈 Confining 10
+🏳️‍🌈 And sinking deeper 10
+🏳️‍🌈 Controlling 10
+🏳️‍🌈 Defining 10
+🏳️‍🌈 And we're sinking deeper 10
+🏳️‍🌈 Saturn comes back around to show you everything 10
+🏳️‍🌈 Let's you choose what you will not see and then 10
+🏳️‍🌈 Drags you down like a stone or lifts you up again 10
+🏳️‍🌈 Spits you out like a child, light and innocent 10
+🏳️‍🌈 Saturn comes back around. 10
+🏳️‍🌈 Lifts you up like a child or 10
+🏳️‍🌈 Drags you down like a stone 10
+🏳️‍🌈 To consume you till you choose to let this go 10
+🏳️‍🌈 Choose to let this go 10
+🏳️‍🌈 Give away the stone 10
+🏳️‍🌈 Let the oceans take and trans mutate this cold and fated anchor 10
+🏳️‍🌈 Give away the stone 10
+🏳️‍🌈 Let the waters kiss and trans mutate these leaden grudges into gold 10
+🏳️‍🌈 Let go 10
