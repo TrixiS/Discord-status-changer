@@ -45,12 +45,17 @@ for status_emoji, status, wait_time in itertools.cycle(statuses):
         }
     }
 
+    requests_headers = {
+        "authorization": config.account_token,
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
+    }
+
     if status_emoji is not None:
         request_json["custom_status"]["emoji_name"] = status_emoji
 
     response = requests.patch(
         "https://discord.com/api/v8/users/@me/settings",
-        headers={"authorization": config.account_token},
+        headers=requests_headers,
         json=request_json
     )
 
